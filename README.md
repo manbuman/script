@@ -1,3 +1,6 @@
+wget https://raw.githubusercontent.com/junolym/script/master/VPN/pptp.sh && sudo bash pptp.sh
+
+
 # 脚本使用命令
 ## Shadowsocks (py)
 **暂只支持最常见的服务器系统：Ubuntu、Debian、CentOS**
